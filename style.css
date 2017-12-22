@@ -1,0 +1,13 @@
+table {
+    border: 0px;
+    padding: 3px;
+}
+
+td {
+    text-align: right;
+}
+
+.titulo>td{
+    background: #cccccc;
+    text-align: center;
+}
